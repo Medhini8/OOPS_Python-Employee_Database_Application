@@ -9,4 +9,4 @@ The  Script contains the following operations:
 5. To check the basic statistics of employees
 6. To calculate the reimbursement of one employee
 
-### The main advantage of connecting this program to the database is that the information becomes lossless even after closing our program a number of times.
+#### The main advantage of connecting this program to the database is that the information becomes lossless even after closing our program a number of times.
